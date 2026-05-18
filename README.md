@@ -16,4 +16,4 @@ whatever the LEDs are showing. Right click to disable or quit.
 
 Requires MSI Center open and the script running as Administrator.
 Uses mlsdk64.dll from the MSI Mystic Light SDK to talk directly to the hardware.
-"""
+
