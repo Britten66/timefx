@@ -1,5 +1,5 @@
-"""
-TimeFX - MSI Mystic Light
+
+## TimeFX - MSI Mystic Light
 
 I built this while learning Python as a way to push my MSI motherboard LEDs
 through a full day and night color cycle automatically. The idea was simple:
